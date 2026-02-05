@@ -89,19 +89,22 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt: Can you make a movie poster that is a wide landscape shot of people on a boat in the amazon moving away from the front of the poster into the distance of a sunset, and there is a very large anaconda snake following them? 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: Not much  
+- **What didn't work: Describing where I wanted everything  
+- **What I'll change for next attempt: I don't know  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt: Can you make a movie poster that is a wide landscape shot of people on a boat in the amazon moving away from the front of the poster into the distance of a sunset, and there is a very large anaconda snake following them behind them where the people on the boat cant see it, and have the anaconda be pretty low above the water
 
-- **What worked:**  
-- **What didn't work:**  
+  
 
-**Final AI Image Selected:** (Which attempt? Why?)  
+- **What worked: All the elements of the background  
+- **What didn't work: Telling it where to put the different things in the image 
+
+**Final AI Image Selected:** (Which attempt? Why?)
+The second attempt, it was closest to my vision  
 
 ---
 

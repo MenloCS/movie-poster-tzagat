@@ -68,18 +68,18 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
+- **My prompt:Can you make a movie poster that is a wide landscape shot of a boat on a river in the amazon with a large anaconda somewhere slowly moving towards the boat and people  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: Most of it looked good  
+- **What didn't work: poster not really scary 
+- **What I'll change for next attempt: Highlight the scary aspect  
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt: Can you make a movie poster that is a wide landscape shot of people on a boat in the amazon going away into the distance near sunset, and there is a very large anaconda snake following them?  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked: Not mentioning anything about horror, clearly describing what I wanted  
+- **What didn't work: the people going away from the snake  
+- **What I'll change for next attempt: keep describing where I want the people and snake 
 
 ---
 

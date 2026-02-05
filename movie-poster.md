@@ -30,26 +30,26 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title: Anaconda  
+- **Why I chose this movie: I saw it recently and liked the idea of the movie, but thought it could be better  
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion: Fear, tension  
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element: Some part of a very large anaconda  
+- **Why this element: It's the main part of the movie  
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid: Making the people on the poster look to scared, because they shouldn't realize the snake is there   
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s): Green, brown  
+- **Accent color(s): Black around edges  
+- **Overall mood: Can be dark like at night or during the day, should be pretty cool colors  
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
@@ -58,7 +58,7 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:**  
+- **Focal point description: Pretty wide shot with landscape  
 
 ---
 
